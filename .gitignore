@@ -132,3 +132,4 @@ notebooks/
 runs/
 data/*
 !data/.gitkeep
+!data/data.pkl
